@@ -14,6 +14,6 @@
 - [**Web Page**](https://innowise.com/case/vr-app-development/)
 ---
 #### Other links
-**My games** -- [**itch**](https://krimelz.itch.io/)
-**My arts** -- [**Pinterest**](https://pinterest.com/krimelz/portfolio/)
-**My resume** -- [**LinkedIn**](https://www.linkedin.com/in/krimelz/)
+- [**itch.io**](https://krimelz.itch.io/)
+- [**Pinterest**](https://pinterest.com/krimelz/portfolio/)
+- [**LinkedIn**](https://www.linkedin.com/in/krimelz/)
